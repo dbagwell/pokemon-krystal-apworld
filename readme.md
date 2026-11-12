@@ -24,6 +24,8 @@ A custom Archipelago World for generating and playing multiworlds with Pokémon 
 1. Enter your desired slot name and select your desired settings.
 1. Click `Export` and save the generated `.yaml` file.
 
+For a better experience with automatically tracking checked item locations, it is recommended to enable the "Item Properties -> Increase Pack Size" Setting. Enabling "Auto Sell Received Items" in the Export Archipelago Options can also help with making sure you always have room to pick up an item and have the location automatically tracked.
+
 ### Multiworld Generation
 
 1. Place your all the player yaml files that you want to include in the multiworld in the `Players` folder of your Archipelago installation (you can include yaml files for other games, but make sure to also install the .apworld files for them if they aren't one of Archipelago's Core games as well as any of their prerequisites).
